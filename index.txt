@@ -3,10 +3,8 @@ Today is the first commit.
 This is Second commit.
 We have successfully committed the file now we will do another commit.
 
-
-
-
 I have created a new branch named main.
 
-
 I'm pulling the new commit. Thankyou
+
+Now I'm working on the GIT BRANCHING. as well as GIT REBASE. Thankyou!!
