@@ -2,3 +2,7 @@ Hello Today I'm practicing git commands. Have a good day!!
 Today is the first commit.
 This is Second commit.
 We have successfully committed the file now we will do another commit.
+
+
+
+I have created a new branch named main.
