@@ -7,4 +7,8 @@ I have created a new branch named main.
 
 I'm pulling the new commit. Thankyou
 
+<<<<<<< HEAD
 Now I'm working on the GIT BRANCHING. as well as GIT REBASE. Thankyou!!
+=======
+So, i'm commiting the file in feature branch that is COMMIT-2
+>>>>>>> feature-1
